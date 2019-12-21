@@ -1,3 +1,0 @@
-# Hello-Word
-Just...
-Mi name Serge, I like ruby, node.js, java, python
